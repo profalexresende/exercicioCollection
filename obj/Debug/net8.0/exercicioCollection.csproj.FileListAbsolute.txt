@@ -1,0 +1,14 @@
+C:\aulasGraduacao\exercicioCollection\bin\Debug\net8.0\exercicioCollection.exe
+C:\aulasGraduacao\exercicioCollection\bin\Debug\net8.0\exercicioCollection.deps.json
+C:\aulasGraduacao\exercicioCollection\bin\Debug\net8.0\exercicioCollection.runtimeconfig.json
+C:\aulasGraduacao\exercicioCollection\bin\Debug\net8.0\exercicioCollection.dll
+C:\aulasGraduacao\exercicioCollection\bin\Debug\net8.0\exercicioCollection.pdb
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\exercicioCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\exercicioCollection.AssemblyInfoInputs.cache
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\exercicioCollection.AssemblyInfo.cs
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\exercicioCollection.csproj.CoreCompileInputs.cache
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\exercicioCollection.dll
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\refint\exercicioCollection.dll
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\exercicioCollection.pdb
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\exercicioCollection.genruntimeconfig.cache
+C:\aulasGraduacao\exercicioCollection\obj\Debug\net8.0\ref\exercicioCollection.dll
